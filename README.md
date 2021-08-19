@@ -49,3 +49,5 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/88370856/130054223-9739b347-502d-4263-9621-a24d41435835.jpg)
 
+linkdin https://www.linkedin.com/posts/abhishek-sharma-7b8993192_thesparkfoundation-gripaugust21-machinelearning-activity-6834082455260143616-fjQs
+youtube https://youtu.be/twPmZtkhvdw
