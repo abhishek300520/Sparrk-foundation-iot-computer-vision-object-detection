@@ -48,3 +48,4 @@ plt.imshow(img_rgb)
 plt.show()
 
 ![image](https://user-images.githubusercontent.com/88370856/130054223-9739b347-502d-4263-9621-a24d41435835.jpg)
+
