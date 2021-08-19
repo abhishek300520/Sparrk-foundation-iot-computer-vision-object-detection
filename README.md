@@ -1,5 +1,5 @@
-![image](https://user-images.githubusercontent.com/88370856/130054223-9739b347-502d-4263-9621-a24d41435835.jpg)
-![image](https://user-images.githubusercontent.com/88370856/130054256-3c7828b4-2e26-42ab-a757-aa5b9338a63c.jpg)
+
+
 # Sparrk-foundation-iot-computer-vision-object-detection
 I developed this code using python opencv 
 import cv2
@@ -44,3 +44,5 @@ if amount_found != 0:
 plt.subplot(1, 1, 1)
 plt.imshow(img_rgb)
 plt.show()
+
+![image](https://user-images.githubusercontent.com/88370856/130054223-9739b347-502d-4263-9621-a24d41435835.jpg)
